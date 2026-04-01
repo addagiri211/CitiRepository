@@ -1,6 +1,11 @@
 package com.nt;
 
 public class Util {
+	
+	public void m3()
+	{
+	System.out.println("stashes worked");	
+	}
 public static void main(String[] args) {
 	
 	System.out.println("hi");
@@ -14,6 +19,7 @@ public static void main(String[] args) {
 	System.out.println("new branch created");
 	
 	System.out.println("able to fetch the branch");
+	System.out.println("staching");
 
 	
 	
