@@ -6,6 +6,10 @@ public class Util {
 	{
 	System.out.println("stashes worked");	
 	}
+	public void m4()
+	{
+	System.out.println("third branch");	
+	}
 public static void main(String[] args) {
 	
 	System.out.println("hi");
